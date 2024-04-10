@@ -1,0 +1,6 @@
+Cognome1       Nome1     	192	20/07/2011	1700	impiegato 
+Cognome2       Nome2     	15	01/10/1998	2560	dirigente 
+Cognome3       Nome3     	140	12/12/1993	1400	operaio   
+Cognome4       Nome4     	225	05/07/2001	1500	operaio   
+Cognome5       Nome5     	555	12/08/1996	300	studente  
+	
