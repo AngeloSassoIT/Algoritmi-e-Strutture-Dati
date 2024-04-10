@@ -7,7 +7,7 @@
 <h4>Si supponga di dover elaborare delle informazioni di input che rappresentano il 
 personale che lavora in una determinata azienda. Scrivere un programma ANSI
  C che esegue le seguenti elaborazioni:
- Acquisisce un file di testo, il cui formato prevede un certo numero di righe 
+ <br>Acquisisce un file di testo, il cui formato prevede un certo numero di righe 
 (record) ognuna delle quali contiene: cognome e nome della persona, codice 
 identificativo numerico, data di assunzione, stipendio, categoria (impiegato, 
 dirigente, operaio). I vari campi di ogni riga sono separati da tabulazione 
@@ -21,10 +21,11 @@ opportunamente da tastiera.</li>
 lavoratore, selezionandolo opportunamente da tastiera.</li>
 <li>Dato un numero interno i inserito dall’utente, restituire il record relativo 
 all’i-esimo elemento più piccolo in base allo stipendio.</li>
-/n Per quanto riguarda l’analisi teorica si deve fornire la complessità 
+<br>Per quanto riguarda l’analisi teorica si deve fornire la complessità 
 corrispondente ad ognuna delle seguenti operazioni: inserimento di un nuovo 
 record, cancellazione di un record, ricerca di un record, selezione i-esimo 
-record stipendiale. Oltre all’analisi teorica della complessità si deve effettuare 
+record stipendiale.
+<br>Oltre all’analisi teorica della complessità si deve effettuare 
 uno studio sperimentale della stessa. In particolare, si deve operare generando
  casualmente un numero N di record da fornire in input al programma. L’analisi 
 sperimentale deve quindi valutare la complessità al variare del parametro N 
