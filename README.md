@@ -2,10 +2,9 @@
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
            <h1>Specifiche del problema</h1> 
-
 <h4>Si supponga di dover elaborare delle informazioni di input che rappresentano il 
 personale che lavora in una determinata azienda. Scrivere un programma ANSI
- C che esegue le seguenti elaborazioni:
+ C che esegue le seguenti elaborazioni:<br>
  <br>Acquisisce un file di testo, il cui formato prevede un certo numero di righe 
 (record) ognuna delle quali contiene: cognome e nome della persona, codice 
 identificativo numerico, data di assunzione, stipendio, categoria (impiegato, 
